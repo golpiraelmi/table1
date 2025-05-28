@@ -1,0 +1,20 @@
+[project]
+name = "table1"  # 🔹 Required: name of the package
+version = "0.1.0"
+description = "A Python package for generating Table 1 summaries"
+authors = [
+    { name = "Golpira", email = "elmi.golpira@gmail.com" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.7"
+
+# Optional: dependencies
+dependencies = [
+    "pandas",
+    "numpy"
+]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: table1
+Version: 0.1.0
+Summary: A Python package for generating Table 1 summaries
+Author: Golpira
+Author-email: Golpira <elmi.golpira@gmail.com>
+License: UofC
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Dynamic: license-file
+
+TableOne with Mann-WhineyU test for two group comparisons

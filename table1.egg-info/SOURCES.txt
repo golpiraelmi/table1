@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+table1/__init__.py
+table1/modules.py
+table1.egg-info/PKG-INFO
+table1.egg-info/SOURCES.txt
+table1.egg-info/dependency_links.txt
+table1.egg-info/requires.txt
+table1.egg-info/top_level.txt
